@@ -16,8 +16,13 @@ Analyze sales transaction data to identify trends, patterns, and business insigh
 ---
 ## Dataset
 
-The dataset is not uploaded due to GitHub file size limits.  
-Place `data.csv` in the project folder before running the notebook.
+The dataset used in this project is not included in the repository due to GitHub file size limitations.
+
+You can download it from:
+https://drive.google.com/file/d/1cK_6Egy6Yv00pwr1hCJB1NvSubdrTMe2/view?usp=drive_link
+After downloading, place the file in the project folder as:
+
+data.csv
 
 ## 📂 Dataset
 Sales transaction dataset containing:
