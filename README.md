@@ -14,6 +14,10 @@ Analyze sales transaction data to identify trends, patterns, and business insigh
 - Jupyter Notebook  
 
 ---
+## Dataset
+
+The dataset is not uploaded due to GitHub file size limits.  
+Place `data.csv` in the project folder before running the notebook.
 
 ## 📂 Dataset
 Sales transaction dataset containing:
